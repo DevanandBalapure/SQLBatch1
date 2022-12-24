@@ -1,0 +1,7 @@
+--create database command
+
+create database Bigdatabootcamp1;
+
+--Show the list of existing databse ADD
+
+show databases;
